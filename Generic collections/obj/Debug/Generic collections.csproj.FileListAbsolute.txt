@@ -1,0 +1,7 @@
+C:\Users\My PC\source\repos\Generic collections\Generic collections\obj\Debug\Generic collections.csprojAssemblyReference.cache
+C:\Users\My PC\source\repos\Generic collections\Generic collections\obj\Debug\Generic collections.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\Generic collections\Generic collections\bin\Debug\Generic collections.exe.config
+C:\Users\My PC\source\repos\Generic collections\Generic collections\bin\Debug\Generic collections.exe
+C:\Users\My PC\source\repos\Generic collections\Generic collections\bin\Debug\Generic collections.pdb
+C:\Users\My PC\source\repos\Generic collections\Generic collections\obj\Debug\Generic collections.exe
+C:\Users\My PC\source\repos\Generic collections\Generic collections\obj\Debug\Generic collections.pdb
